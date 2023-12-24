@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abdallah
 
-- 🔭 I’m currently working on ... An e-commerce platform ( WIP )
+- 🔭 I’m currently working on ... a POS system ( WIP )
 - 🌱 I’m currently learning ... AWS
 - 👯 I’m looking to collaborate on ... Any interesting Spring / React project
 - 💬 Ask me about ... Anything :)
